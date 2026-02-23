@@ -27,11 +27,11 @@ export function Navigation() {
         <div className="flex h-20 items-center justify-between">
           {/* Logo */}
           <Link href="/" className="flex items-center gap-2">
-            <Image
-              src="/images/boldafrikalogo.png"
-              alt="Bold Afrika"
-              width={500}
-              height={200}
+              <Image
+                src="/images/boldafrikalogo.png"
+                alt="Bold Afrika"
+                width={500}
+                height={200}
               className="h-14 w-auto"
             />
           </Link>

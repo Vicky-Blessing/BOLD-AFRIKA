@@ -34,11 +34,11 @@ export function Footer() {
           {/* Brand */}
           <div className="lg:col-span-2">
             <Link href="/" className="inline-block">
-              <Image
-                src="/images/boldafrikalogo.png"
-                alt="Bold Afrika"
-                width={500}
-                height={200}
+                <Image
+                  src="/images/boldafrikalogo.png"
+                  alt="Bold Afrika"
+                  width={500}
+                  height={200}
                 className="h-20 w-auto"
               />
             </Link>
